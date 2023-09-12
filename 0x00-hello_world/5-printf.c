@@ -1,13 +1,12 @@
 #include <stdio.h>
 /**
- * main - this is the main function
+ * main - Entry point
  *
- * return: Always zero (success)
+ * Description: This program prints the string on the screen
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
-	/**
-	 * main - this is the main function
-	 */
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
