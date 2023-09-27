@@ -1,0 +1,27 @@
+__libc_start_main(0x400876, 1, 0x7ffd3f943dc8, 0x400a60 <unfinished ...>
+strncmp("SHELL=/bin/bash", "jennieandjayloveasm=", 20)                    = -23
+strncmp("PWD=/home/vagrant/alx-low_level_"..., "jennieandjayloveasm=", 20) = -26
+strncmp("LOGNAME=vagrant", "jennieandjayloveasm=", 20)                    = -30
+strncmp("XDG_SESSION_TYPE=tty", "jennieandjayloveasm=", 20)               = -18
+strncmp("MOTD_SHOWN=pam", "jennieandjayloveasm=", 20)                     = -29
+strncmp("HOME=/home/vagrant", "jennieandjayloveasm=", 20)                 = -34
+strncmp("LANG=C.UTF-8", "jennieandjayloveasm=", 20)                       = -30
+strncmp("LS_COLORS=rs=0:di=01;34:ln=01;36"..., "jennieandjayloveasm=", 20) = -30
+strncmp("SSH_CONNECTION=10.0.2.2 11223 10"..., "jennieandjayloveasm=", 20) = -23
+strncmp("LESSCLOSE=/usr/bin/lesspipe %s %"..., "jennieandjayloveasm=", 20) = -30
+strncmp("XDG_SESSION_CLASS=user", "jennieandjayloveasm=", 20)             = -18
+strncmp("TERM=xterm-256color", "jennieandjayloveasm=", 20)                = -22
+strncmp("LESSOPEN=| /usr/bin/lesspipe %s", "jennieandjayloveasm=", 20)    = -30
+strncmp("USER=vagrant", "jennieandjayloveasm=", 20)                       = -21
+strncmp("SHLVL=1", "jennieandjayloveasm=", 20)                            = -23
+strncmp("XDG_SESSION_ID=5", "jennieandjayloveasm=", 20)                   = -18
+strncmp("XDG_RUNTIME_DIR=/run/user/1000", "jennieandjayloveasm=", 20)     = -18
+strncmp("SSH_CLIENT=10.0.2.2 11223 22", "jennieandjayloveasm=", 20)       = -23
+strncmp("XDG_DATA_DIRS=/usr/local/share:/"..., "jennieandjayloveasm=", 20) = -18
+strncmp("PATH=/usr/local/sbin:/usr/local/"..., "jennieandjayloveasm=", 20) = -26
+strncmp("DBUS_SESSION_BUS_ADDRESS=unix:pa"..., "jennieandjayloveasm=", 20) = -38
+strncmp("SSH_TTY=/dev/pts/0", "jennieandjayloveasm=", 20)                 = -23
+strncmp("_=/usr/bin/ltrace", "jennieandjayloveasm=", 20)                  = -11
+strncmp("OLDPWD=/home/vagrant/alx-low_lev"..., "jennieandjayloveasm=", 20) = -27
+puts("Access Denied")                                                     = 14
++++ exited (status 1) +++
