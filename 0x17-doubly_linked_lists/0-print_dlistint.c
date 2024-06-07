@@ -14,11 +14,11 @@ size_t print_dlistint(const dlistint_t *h)
     if (h == NULL)
         return (count);
 
-    // Move to the start of the list if h is not the head
+
     while (h->prev != NULL)
         h = h->prev;
 
-    // Print the elements and count the nodes
+
     while (h != NULL)
     {
         printf("%d\n", h->n);
